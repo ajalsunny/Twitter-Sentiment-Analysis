@@ -16,6 +16,7 @@ This project analyzes public sentiment on Elon Musk's acquisition of Twitter usi
 
 ## Screenshots
 https://github.com/ajalsunny/Twitter-Sentiment-Analysis/blob/main/findings1.png
+Additional visuals can be found in the repository
 
 
 
