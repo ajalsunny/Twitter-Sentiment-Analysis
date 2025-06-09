@@ -15,7 +15,8 @@ This project analyzes public sentiment on Elon Musk's acquisition of Twitter usi
 - Business analysis comparing sentiment with ad revenue and user engagement trends
 
 ## Screenshots
-https://github.com/ajalsunny/Twitter-Sentiment-Analysis/blob/main/findings1.png
+(https://github.com/ajalsunny/Twitter-Sentiment-Analysis/blob/main/findings1.png)
+
 Additional visuals can be found in the repository
 
 
